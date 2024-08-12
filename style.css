@@ -1,0 +1,33 @@
+.titulo{
+    width: 30px;
+    border: 1px;
+    border-style: dashed;
+}
+
+.menu, header{
+    padding: 10px;
+    color:rgb(255, 0, 0);
+    background-color: red;
+    border: 1px;
+    border-style: dashed;
+}
+
+.galeria{
+    width: 50px;
+}
+
+.texto{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.traco{
+    order: 1px;
+    border-style: double;
+}
+.titulo, .video, .destaques, .sobrenos, .contato, .traco{
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
